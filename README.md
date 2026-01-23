@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Untitled design.gif" width="250" alt="My Animated Avatar">
+  <img src="photo.gif" width="250" alt="My Animated Avatar">
 </div>
 
 # 💫 About Me:
