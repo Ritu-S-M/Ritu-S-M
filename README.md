@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on backend development with Node.js and ML Algorithms<br>👯 I’m looking to collaborate on a creative project with some talented individuals<br>🤝 I’m looking for help with open-source contributions and writing better, maintainable code<br>🌱 I’m currently learning DSA and problem-solving techniques<br>⚡ Fun fact : I fix one bug and two new ones appear. Balance is important.
+🔭 I’m currently working on web development.<br>👯 I’m looking to collaborate on a creative project with some talented individuals<br>🤝 I’m looking for help with open-source contributions and writing better, maintainable code<br>🌱 I’m currently learning DSA and problem-solving techniques<br>⚡ Fun fact : I fix one bug and two new ones appear. Balance is important.
 
 
 ## 🌐 Socials:
